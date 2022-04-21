@@ -76,7 +76,7 @@
    "checks_per_epoch":1,
    "report_freq":200,
    "verbose":true,
-   "device":"cuda",
+   "device":"cpu",
    "buffer_size":10000,
    "minimize_pad":false,
    "shuffle":true,
